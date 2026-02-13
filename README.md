@@ -20,9 +20,7 @@ Saya adalah seorang pengembang web yang berfokus pada pembuatan aplikasi yang fu
 
 ### 📫 Mari Terhubung!
 
-- **LinkedIn:** [link-linkedin-kamu]
-- **Email:** [email-kamu@example.com]
-- **Portfolio:** [link-portfolio-jika-ada]
+- **Email:** [teguhnvmm111@gmail.com]
 
 ---
 
