@@ -1,4 +1,4 @@
-# Halo, Saya [Nama Kamu]! 👋
+# Halo, Saya [Teguh Firmansyah]! 👋
 
 ### Full Stack Developer | PHP & Laravel Enthusiast
 
@@ -19,13 +19,6 @@ Di bawah ini adalah bahasa pemrograman dan framework yang sering saya gunakan da
 
 ---
 
-### 📊 Statistik GitHub
-
-![Statistik GitHub Saya](https://github-readme-stats.vercel.app/api?username=[USERNAME_KAMU]&show_icons=true&theme=radical)
-![Bahasa yang Paling Sering Digunakan](https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME_KAMU]&layout=compact&theme=radical)
-
----
-
 ### 📫 Mari Terhubung!
 
 - **LinkedIn:** [link-linkedin-kamu]
@@ -36,8 +29,7 @@ Di bawah ini adalah bahasa pemrograman dan framework yang sering saya gunakan da
 
 ### ⚡ Fun Fact
 - 🔭 Saya sedang mengerjakan proyek berbasis Laravel.
-- 🌱 Saya sedang mendalami optimasi database dan API.
 - ☕ Kopi adalah bahan bakar utama saya saat debugging.
 
 ---
-*Dibuat dengan ❤️ oleh [Nama Kamu]*
+*Dibuat dengan ❤️*
