@@ -27,6 +27,3 @@ Saya adalah seorang pengembang web yang berfokus pada pembuatan aplikasi yang fu
 ### ⚡ Fun Fact
 - 🔭 Saya sedang mengerjakan proyek berbasis Laravel.
 - ☕ Kopi adalah bahan bakar utama saya saat debugging.
-
----
-*Dibuat dengan ❤️*
